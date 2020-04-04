@@ -1,2 +1,2 @@
 #! /bin/bash
-pip install fuzzysearch --system
+pip3 install fuzzysearch --system
