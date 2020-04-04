@@ -1,2 +1,2 @@
 #! /bin/bash
-pip3 install fuzzysearch --system
+sudo /usr/bin/anaconda/bin/conda install -y  -c conda-forge fuzzywuzzy
